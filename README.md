@@ -1,5 +1,4 @@
 # RFID-BasedDoorLock-System
-# RFID-Based Door Lock with Arduino Uno
 
 ## Overview
 
