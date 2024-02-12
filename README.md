@@ -28,6 +28,9 @@ Include a wiring diagram in this section to guide users on how to connect the co
 6. Connect the positive (+) and negative (-) terminals of the blue LED to digital pin D5 on the Arduino.
 
 Ensure proper power supply to the Arduino Uno. Refer to the wiring diagram for a detailed illustration of the connections.
+Link for spi.h library - https://github.com/PaulStoffregen/SPI
+link for mfrc522 library - https://www.arduinolibraries.info/libraries/mfrc522
+
 
 ## How to Use
 
